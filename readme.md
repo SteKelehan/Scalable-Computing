@@ -2,7 +2,7 @@
 
 This is a discription of 3 password cracking assignments. 
 
-## Assignment One 1000 md5 Passwords to Crack
+## Assignment One 1000 md5 Passwords Hashes to Crack
 
 
 ### Discription
@@ -13,7 +13,7 @@ and password are unique - each of the (176,000!) passwords I generated is given
 to just one student. If you haven't yet seen that mail, **first** check your
 inbox and spam folders, and only then send a mail to Christian to check.
 
-## Assignmnet Two 2000 mixed Password types to Crack
+## Assignmnet Two 2000 mixed Password Hashes types to Crack
 
 ### Discription
 
